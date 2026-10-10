@@ -44,7 +44,7 @@ const PROJECTS = [
   { id: 35, image: "/projects/jawaheraltasmeem.webp", alt: "jawaheraltasmeem", link: "https://jawaheraltasmeem.com/", category: "تجارة إلكترونية" },
  ];
 
-const CATEGORIES = ["الكل", "تجارة إلكترونية", "شركات","سياحة", "تعليمي", "عقارات", "طبي", "معمارية", "محاماة "];
+const CATEGORIES = ["الكل", "تجارة إلكترونية", "شركات","سياحة", "تعليمي", "طبي", "معمارية", "محاماة "];
 
 const ProjectCard = React.memo(({ project }: { project: typeof PROJECTS[0] }) => {
   const [isLoaded, setIsLoaded] = useState(false);
