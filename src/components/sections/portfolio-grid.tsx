@@ -29,15 +29,19 @@ const PROJECTS = [
   { id: 20, image: "/projects/arkamstore.webp", alt: "Arkamstore", link: "https://arkamstore.com/", category: "تجارة إلكترونية" },
   { id: 21, image: "/projects/lean-solution.webp", alt: "Lean Solutions", link: "https://lean-solution.com/", category: "شركات" },
   { id: 22, image: "/projects/takweenacademu.webp", alt: "Takween Academy", link: "https://takweenacademy.ps/", category: "تعليمي" },
-  { id: 23, image: "/projects/botanicaksa.webp", alt: "Botanica KSA", link: "https://botanicaksa.net/", category: "تجارة إلكترونية" },
+  // { id: 23, image: "/projects/botanicaksa.webp", alt: "Botanica KSA", link: "https://botanicaksa.net/", category: "تجارة إلكترونية" },
   { id: 24, image: "/projects/architecture.webp", alt: "Architecture", link: "https://architecture.raqamia.tech/", category: "معمارية" },
   { id: 25, image: "/projects/lamsaagency.webp", alt: "Lamsa Agency", link: "https://lamsaagency.com/", category: "شركات" },
-  { id: 26, image: "/projects/content-eg.webp", alt: "Content Egypt", link: "https://content-eg.com/", category: "شركات" },
-  { id: 27, image: "/projects/orvenza.webp", alt: "Orvenza", link: "https://orvenza.net/", category: "تجارة إلكترونية" },
-  { id: 28, image: "/projects/homez.webp", alt: "Homez", link: "https://realestate.raqamia.tech/", category: "عقارات" },
+  // { id: 26, image: "/projects/content-eg.webp", alt: "Content Egypt", link: "https://content-eg.com/", category: "شركات" },
+  // { id: 27, image: "/projects/orvenza.webp", alt: "Orvenza", link: "https://orvenza.net/", category: "تجارة إلكترونية" },
+  // { id: 28, image: "/projects/homez.webp", alt: "Homez", link: "https://realestate.raqamia.tech/", category: "عقارات" },
   { id: 29, image: "/projects/tours.webp", alt: "Tourio", link: "https://tours.raqamia.tech/", category: "سياحة" },
   { id: 30, image: "/projects/medical.webp", alt: "Medical", link: "https://medical.raqamia.tech/", category: "طبي" },
   { id: 31, image: "/projects/egypt.webp", alt: "Egypt", link: "https://egypt.raqamia.tech/", category: "سياحة" },
+  { id: 32, image: "/projects/lytarbzon.webp", alt: "lytarbzon", link: "https://lytarbzon.com/", category: "تجارة إلكترونية" },
+  { id: 33, image: "/projects/aplusacademy.webp", alt: "aplusacademy", link: "https://aplusacademy.tech/", category: "تعليمي" },
+  { id: 34, image: "/projects/egyptiscallingtours.webp", alt: "egyptiscallingtours", link: "https://egyptiscallingtours.com/", category: "سياحة" },
+  { id: 35, image: "/projects/jawaheraltasmeem.webp", alt: "jawaheraltasmeem", link: "https://jawaheraltasmeem.com/", category: "تجارة إلكترونية" },
  ];
 
 const CATEGORIES = ["الكل", "تجارة إلكترونية", "شركات","سياحة", "تعليمي", "عقارات", "طبي", "معمارية", "محاماة "];
